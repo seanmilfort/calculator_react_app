@@ -1,1 +1,2 @@
-# calculator_react_app
+Calculator React Application from Meta's React Basics Course
+Final Assignment
